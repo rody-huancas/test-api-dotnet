@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\USERS\\USS\\Desktop\\RODY\\.NET\\SolucionAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86E6488E-D144-445F-A8A1-658305C3D0FD}|ProyectoData\\ProyectoData.csproj|d:\\users\\uss\\desktop\\rody\\.net\\solucionapi\\proyectodata\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E6488E-D144-445F-A8A1-658305C3D0FD}|ProyectoData\\ProyectoData.csproj|solutionrelative:proyectodata\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694EF3EE-BA37-4585-BF0E-507210EDA7B1}|ProyectoWebAPI\\ProyectoWebAPI.csproj|d:\\users\\uss\\desktop\\rody\\.net\\solucionapi\\proyectowebapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694EF3EE-BA37-4585-BF0E-507210EDA7B1}|ProyectoWebAPI\\ProyectoWebAPI.csproj|solutionrelative:proyectowebapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694EF3EE-BA37-4585-BF0E-507210EDA7B1}|ProyectoWebAPI\\ProyectoWebAPI.csproj|d:\\users\\uss\\desktop\\rody\\.net\\solucionapi\\proyectowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694EF3EE-BA37-4585-BF0E-507210EDA7B1}|ProyectoWebAPI\\ProyectoWebAPI.csproj|solutionrelative:proyectowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694EF3EE-BA37-4585-BF0E-507210EDA7B1}|ProyectoWebAPI\\ProyectoWebAPI.csproj|d:\\users\\uss\\desktop\\rody\\.net\\solucionapi\\proyectowebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{694EF3EE-BA37-4585-BF0E-507210EDA7B1}|ProyectoWebAPI\\ProyectoWebAPI.csproj|solutionrelative:proyectowebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E6488E-D144-445F-A8A1-658305C3D0FD}|ProyectoData\\ProyectoData.csproj|d:\\users\\uss\\desktop\\rody\\.net\\solucionapi\\proyectodata\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E6488E-D144-445F-A8A1-658305C3D0FD}|ProyectoData\\ProyectoData.csproj|solutionrelative:proyectodata\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoData.cs",
+              "DocumentMoniker": "D:\\USERS\\USS\\Desktop\\RODY\\.NET\\SolucionAPI\\ProyectoData\\EmpleadoData.cs",
+              "RelativeDocumentMoniker": "ProyectoData\\EmpleadoData.cs",
+              "ToolTip": "D:\\USERS\\USS\\Desktop\\RODY\\.NET\\SolucionAPI\\ProyectoData\\EmpleadoData.cs",
+              "RelativeToolTip": "ProyectoData\\EmpleadoData.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwIUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:19:20.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "D:\\USERS\\USS\\Desktop\\RODY\\.NET\\SolucionAPI\\ProyectoWebAPI\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "ProyectoWebAPI\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "D:\\USERS\\USS\\Desktop\\RODY\\.NET\\SolucionAPI\\ProyectoWebAPI\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "ProyectoWebAPI\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:57:48.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\USERS\\USS\\Desktop\\RODY\\.NET\\SolucionAPI\\ProyectoWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoWebAPI\\Program.cs",
+              "ToolTip": "D:\\USERS\\USS\\Desktop\\RODY\\.NET\\SolucionAPI\\ProyectoWebAPI\\Program.cs",
+              "RelativeToolTip": "ProyectoWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:54:56.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "D:\\USERS\\USS\\Desktop\\RODY\\.NET\\SolucionAPI\\ProyectoData\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "ProyectoData\\ConnectionStrings.cs",
+              "ToolTip": "D:\\USERS\\USS\\Desktop\\RODY\\.NET\\SolucionAPI\\ProyectoData\\ConnectionStrings.cs",
+              "RelativeToolTip": "ProyectoData\\ConnectionStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:49:03.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\USERS\\USS\\Desktop\\RODY\\.NET\\SolucionAPI\\ProyectoWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoWebAPI\\appsettings.json",
+              "ToolTip": "D:\\USERS\\USS\\Desktop\\RODY\\.NET\\SolucionAPI\\ProyectoWebAPI\\appsettings.json",
+              "RelativeToolTip": "ProyectoWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T17:48:32.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
